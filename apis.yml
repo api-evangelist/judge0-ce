@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://ce.judge0.com/
 common:
+  - type: DomainSecurity
+    url: security/judge0-ce-domain-security.yml
   - type: Website
     url: https://ce.judge0.com/
   - type: PublicAPIsListing
