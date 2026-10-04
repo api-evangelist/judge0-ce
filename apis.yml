@@ -39,7 +39,6 @@ apis:
   - name: Judge0 CE
     description: "Online code execution system"
     humanURL: https://ce.judge0.com/
-    baseURL: https://ce.judge0.com/
     tags:
       - Programming
     properties:
